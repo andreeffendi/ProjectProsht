@@ -1,0 +1,3 @@
+Langkah-langkah untuk membangun project :
+- Download apk : visual studio code
+- Gunakan bahasa dalam pemrogramannya yaitu MERN ( Mongodb , Express , React & Nodejs
