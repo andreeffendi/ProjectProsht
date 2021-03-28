@@ -1,1 +1,6 @@
-
+Rencana pembuatan web pertama :
+- Pelajari M E R N
+- Pelajari Gtihub
+- Buat Halaman Register & Login
+- Buat Navbar
+- Buat Tampilannya
