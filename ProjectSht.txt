@@ -2,3 +2,4 @@ Langkah-langkah untuk membangun project :
 - Download apk : visual studio code
 - Gunakan bahasa dalam pemrogramannya yaitu MERN ( Mongodb , Express , React & Nodejs )
 - Project mulai dikerjakan pukul 09.00 - 18.00
+- Project diharapkan selesai pada tanggal 3 april 2021 
